@@ -28,6 +28,10 @@ GoDaddy
 * Tailwind CSS IntelliSense
 * Quokka.js
 
+## Knowledge Base
+* [FrontEnd Mentor](https://www.frontendmentor.io/challenges)
+* [UiDesign Daily](https://uidesigndaily.com/)
+
 ## Meetings
 Zoom
 
@@ -43,6 +47,14 @@ Notes
 
 ## Password Manager
 1Password
+
+## Resources
+* [Complete List](https://github.com/bradtraversy/design-resources-for-developers)
+* [Color Palettes](https://colorsinspo.com/)
+* [Icons](https://heroicons.dev/)
+* [Tailwind Blocks](https://mertjf.github.io/tailblocks/)
+* [Images_PEXELS](https://www.pexels.com/)
+* [Images_PIXABAY](https://pixabay.com/)
 
 ## Screen Recorder
 OBS
