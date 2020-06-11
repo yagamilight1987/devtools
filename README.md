@@ -12,21 +12,21 @@ GoDaddy
 ## IDE
 ### VS Code
   Plugins
-    * Add jsdoc comments
-    * Bracket Pair Colorizer 2
-    * Code Spell Checker
-    * Color Highlight
-    * Community Material Theme
-    * Docker
-    * Headwind
-    * HTML Boilerplate
-    * Live Server
-    * Material Theme
-    * Material Theme Icons
-    * Prettier - Code Formatter
-    * SynthWave '84
-    * Tailwind CSS IntelliSense
-    * Quokka.js
+* Add jsdoc comments
+* Bracket Pair Colorizer 2
+* Code Spell Checker
+* Color Highlight
+* Community Material Theme
+* Docker
+* Headwind
+* HTML Boilerplate
+* Live Server
+* Material Theme
+* Material Theme Icons
+* Prettier - Code Formatter
+* SynthWave '84
+* Tailwind CSS IntelliSense
+* Quokka.js
 
 ## Meetings
 Zoom
